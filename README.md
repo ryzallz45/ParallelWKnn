@@ -1,3 +1,3 @@
 # Project Komputasi Parallel
 
-ParallelWKnn 
+Paralellisasi Algoritma KNN
