@@ -1,1 +1,3 @@
-# ParallelWKnn
+# Project Komputasi Parallel
+
+ParallelWKnn 
